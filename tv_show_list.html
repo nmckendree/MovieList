@@ -1,80 +1,220 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <title>TV Show List</title>
-    <style>
-        body { font-family: Arial, sans-serif; margin: 20px; }
-        .menu { margin-bottom: 20px; }
-        .menu a { margin: 0 5px; text-decoration: none; font-weight: bold; }
-        .section { margin-bottom: 30px; }
-        .section h2 { border-bottom: 1px solid #ccc; }
-        .item { margin-left: 20px; }
-        #searchBar { margin-bottom: 20px; padding: 8px; width: 300px; }
-    </style>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>TV Show List</title>
+  <style>
+    body { font-family: Arial, sans-serif; margin: 10px; padding: 0; }
+    .back-btn { display: block; margin-bottom: 15px; padding: 10px; 
+                 background: #28a745; color: #fff; text-align: center; 
+                 text-decoration: none; border-radius: 4px; }
+    .menu { margin-bottom: 15px; overflow-x: auto; white-space: nowrap; }
+    .menu a { margin: 0 5px; text-decoration: none; padding: 6px 8px;
+               background: #f0f0f0; border-radius: 4px; font-size: 0.9em; }
+    .section { margin-bottom: 20px; }
+    .section h2 { border-bottom: 1px solid #ccc; padding-bottom: 4px; }
+    .show-block { margin-top: 10px; }
+    .show { font-weight: bold; padding: 4px 0; }
+    .season { margin-left: 15px; color: #555; padding: 2px 0; }
+    #searchBar { margin-bottom: 15px; padding: 8px; width: 100%; 
+                 box-sizing: border-box; font-size: 1em; }
+  </style>
 </head>
 <body>
-    <input type="text" id="searchBar" placeholder="Search...">
-    <div class="menu">
-<a href="#A">A</a> <a href="#X">X</a> <a href="#Y">Y</a> <a href="#Z">Z</a> </div>
+  <a href="index.html" class="back-btn">← Back to Index</a>
+  <input type="text" id="searchBar" placeholder="Search...">
+  <div class="menu">
+<a href="#A">A</a> <a href="#D">D</a> <a href="#F">F</a> <a href="#G">G</a> <a href="#K">K</a> <a href="#L">L</a> <a href="#M">M</a> <a href="#R">R</a> <a href="#S">S</a> <a href="#T">T</a> <a href="##">#</a> </div>
 <div class="section" id="#">
-<h2>#</h2>
-<div class="item">10 Cloverfield Lane (2016)</div>
-<div class="item">10 Things I Hate About You (1999)</div>
-<div class="item">13 Going on 30 (2004)</div>
-<div class="item">1408 (2007)</div>
-<div class="item">17 Again (2009)</div>
-<div class="item">21 Jump Street (2012)</div>
-<div class="item">27 Dresses (2008)</div>
-<div class="item">28 Days Later (2002)</div>
-<div class="item">3-10 to Yuma (2007)</div>
-<div class="item">30 Days of Night (2007)</div>
-<div class="item">40 Days and 40 Nights (2002)</div>
-<div class="item">7 Nights of Darkness (2011)</div>
-<div class="item">8 Mile (2002)</div>
+  <h2>#</h2>
+  <div class="show-block">
+    <div class="show">7th Heaven</div>
+    <div class="season">Season 01</div>
+    <div class="season">Season 06</div>
+    <div class="season">Season 08</div>
+    <div class="season">Season 09</div>
+    <div class="season">Season 10</div>
+    <div class="season">Season 11</div>
+  </div>
 </div>
 <div class="section" id="A">
-<h2>A</h2>
-<div class="item">A Bad Moms Christmas (2017)</div>
-<div class="item">A Bug's Life (1998)</div>
-<div class="item">A Charlie Brown Christmas (1965)</div>
-<div class="item">A Charlie Brown Thanksgiving (1973)</div>
-<div class="item">A Christmas Story (1983)</div>
+  <h2>A</h2>
+  <div class="show-block">
+    <div class="show">A Haunting</div>
+    <div class="season">Season 01</div>
+    <div class="season">Season 02</div>
+    <div class="season">Season 03</div>
+    <div class="season">Season 04</div>
+  </div>
 </div>
-<div class="section" id="X">
-<h2>X</h2>
-<div class="item">X-Men Apocalypse (2016)</div>
-<div class="item">X-Men First Class (2011)</div>
-<div class="item">X-Men The Last Stand (2006)</div>
+<div class="section" id="D">
+  <h2>D</h2>
+  <div class="show-block">
+    <div class="show">Doug</div>
+    <div class="season">Season 01</div>
+  </div>
 </div>
-<div class="section" id="Y">
-<h2>Y</h2>
-<div class="item">Year One (2009)</div>
-<div class="item">Yellow Submarine (1968)</div>
+<div class="section" id="F">
+  <h2>F</h2>
+  <div class="show-block">
+    <div class="show">Full House</div>
+    <div class="season">Season 00</div>
+    <div class="season">Season 01</div>
+    <div class="season">Season 02</div>
+    <div class="season">Season 03</div>
+  </div>
 </div>
-<div class="section" id="Z">
-<h2>Z</h2>
-<div class="item">Zoolander (2001)</div>
-<div class="item">Zootopia (2016)</div>
+<div class="section" id="G">
+  <h2>G</h2>
+  <div class="show-block">
+    <div class="show">Game of Thrones</div>
+    <div class="season">Season 02</div>
+    <div class="season">Season 03</div>
+    <div class="season">Season 04</div>
+  </div>
+  <div class="show-block">
+    <div class="show">Goof Troop</div>
+    <div class="season">Season 01</div>
+  </div>
+</div>
+<div class="section" id="K">
+  <h2>K</h2>
+  <div class="show-block">
+    <div class="show">King of the Hill (1997)</div>
+    <div class="season">Season 01</div>
+    <div class="season">Season 02</div>
+    <div class="season">Season 03</div>
+    <div class="season">Season 04</div>
+    <div class="season">Season 05</div>
+    <div class="season">Season 06</div>
+    <div class="season">Season 07</div>
+    <div class="season">Season 08</div>
+    <div class="season">Season 09</div>
+    <div class="season">Season 10</div>
+    <div class="season">Season 11</div>
+    <div class="season">Season 12</div>
+    <div class="season">Season 13</div>
+  </div>
+</div>
+<div class="section" id="L">
+  <h2>L</h2>
+  <div class="show-block">
+    <div class="show">Looney Tunes</div>
+    <div class="season">1948</div>
+    <div class="season">1949</div>
+    <div class="season">1950</div>
+    <div class="season">1951</div>
+    <div class="season">1954</div>
+    <div class="season">1955</div>
+    <div class="season">1959</div>
+  </div>
+</div>
+<div class="section" id="M">
+  <h2>M</h2>
+  <div class="show-block">
+    <div class="show">Married with Children</div>
+    <div class="season">Season 01</div>
+    <div class="season">Season 02</div>
+  </div>
+  <div class="show-block">
+    <div class="show">My Haunted House</div>
+    <div class="season">Season 01</div>
+    <div class="season">Season 02</div>
+    <div class="season">Season 03</div>
+    <div class="season">Season 04</div>
+    <div class="season">Season 05</div>
+  </div>
+</div>
+<div class="section" id="R">
+  <h2>R</h2>
+  <div class="show-block">
+    <div class="show">Roseanne</div>
+    <div class="season">Season 02</div>
+    <div class="season">Season 03</div>
+    <div class="season">Season 04</div>
+    <div class="season">Season 05</div>
+    <div class="season">Season 06</div>
+    <div class="season">Season 07</div>
+    <div class="season">Season 08</div>
+    <div class="season">Season 09</div>
+  </div>
+  <div class="show-block">
+    <div class="show">Rugrats</div>
+    <div class="season">Season 01</div>
+    <div class="season">Season 02</div>
+    <div class="season">Season 03</div>
+    <div class="season">Season 04</div>
+  </div>
+</div>
+<div class="section" id="S">
+  <h2>S</h2>
+  <div class="show-block">
+    <div class="show">Sex and the City</div>
+    <div class="season">Season 01</div>
+    <div class="season">Season 02</div>
+    <div class="season">Season 03</div>
+    <div class="season">Season 04</div>
+    <div class="season">Season 05</div>
+  </div>
+  <div class="show-block">
+    <div class="show">Spongebob</div>
+    <div class="season">Season 01</div>
+    <div class="season">Season 02</div>
+    <div class="season">Season 03</div>
+  </div>
+  <div class="show-block">
+    <div class="show">Stephen King's It (1990)</div>
+    <div class="season">Season 01</div>
+  </div>
+</div>
+<div class="section" id="T">
+  <h2>T</h2>
+  <div class="show-block">
+    <div class="show">The Big Bang Theory</div>
+    <div class="season">Season 01</div>
+    <div class="season">Season 02</div>
+    <div class="season">Season 03</div>
+    <div class="season">Season 04</div>
+    <div class="season">Season 05</div>
+    <div class="season">Season 06</div>
+    <div class="season">Season 07</div>
+  </div>
+  <div class="show-block">
+    <div class="show">The Nanny</div>
+    <div class="season">Season 01</div>
+    <div class="season">Season 02</div>
+    <div class="season">Season 03</div>
+    <div class="season">Season 04</div>
+    <div class="season">Season 05</div>
+    <div class="season">Season 06</div>
+  </div>
+  <div class="show-block">
+    <div class="show">The Walking Dead</div>
+    <div class="season">Season 01</div>
+    <div class="season">Season 02</div>
+  </div>
 </div>
 
 <script>
-document.getElementById("searchBar").addEventListener("input", function() {
-    var query = this.value.toLowerCase();
-    var sections = document.querySelectorAll(".section");
-    sections.forEach(function(section) {
-        var items = section.querySelectorAll(".item");
-        var anyVisible = false;
-        items.forEach(function(item) {
-            if (item.textContent.toLowerCase().includes(query)) {
-                item.style.display = "";
-                anyVisible = true;
-            } else {
-                item.style.display = "none";
-            }
-        });
-        section.style.display = anyVisible ? "" : "none";
+const barTv = document.getElementById("searchBar");
+barTv.addEventListener("input", () => {
+  const q = barTv.value.toLowerCase();
+  document.querySelectorAll(".section").forEach(sec => {
+    let anySec = false;
+    sec.querySelectorAll(".show-block").forEach(block => {
+      const showTxt = block.querySelector(".show").textContent.toLowerCase();
+      const seasonMatch = Array.from(block.querySelectorAll(".season"))
+        .some(s => s.textContent.toLowerCase().includes(q));
+      if (showTxt.includes(q) || seasonMatch) {
+        block.style.display = "";
+        anySec = true;
+      } else {
+        block.style.display = "none";
+      }
     });
+    sec.style.display = anySec ? "" : "none";
+  });
 });
 </script>
 </body>

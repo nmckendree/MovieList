@@ -1,104 +1,82 @@
-F:\TV\7th Heaven
-F:\TV\A Haunting
-F:\TV\Beetlejuice
-F:\TV\Classic Cartoon Favorites, Vol. 9 - Classic Holiday Stories (2005)
-F:\TV\Doug
-F:\TV\DuckTales
-F:\TV\Full House
-F:\TV\Game of Thrones
-F:\TV\Goof Troop
-F:\TV\King of the Hill (1997)
-F:\TV\Looney Tunes
-F:\TV\Married with Children
-F:\TV\My Haunted House
-F:\TV\Roseanne
-F:\TV\Rugrats
-F:\TV\Sex and the City
-F:\TV\Spongebob
-F:\TV\Stephen King's It (1990)
-F:\TV\The Big Bang Theory
-F:\TV\The Nanny
-F:\TV\The Walking Dead
-F:\TV\This Is America, Charlie Brown
-F:\TV\7th Heaven\Season 01
-F:\TV\7th Heaven\Season 06
-F:\TV\7th Heaven\Season 08
-F:\TV\7th Heaven\Season 09
-F:\TV\7th Heaven\Season 10
-F:\TV\7th Heaven\Season 11
-F:\TV\A Haunting\Season 01
-F:\TV\A Haunting\Season 02
-F:\TV\A Haunting\Season 03
-F:\TV\A Haunting\Season 04
-F:\TV\Doug\Season 01
-F:\TV\Full House\Season 00
-F:\TV\Full House\Season 01
-F:\TV\Full House\Season 02
-F:\TV\Full House\Season 03
-F:\TV\Game of Thrones\Season 02
-F:\TV\Game of Thrones\Season 03
-F:\TV\Game of Thrones\Season 04
-F:\TV\Goof Troop\Season 01
-F:\TV\King of the Hill (1997)\Season 01
-F:\TV\King of the Hill (1997)\Season 02
-F:\TV\King of the Hill (1997)\Season 03
-F:\TV\King of the Hill (1997)\Season 04
-F:\TV\King of the Hill (1997)\Season 05
-F:\TV\King of the Hill (1997)\Season 06
-F:\TV\King of the Hill (1997)\Season 07
-F:\TV\King of the Hill (1997)\Season 08
-F:\TV\King of the Hill (1997)\Season 09
-F:\TV\King of the Hill (1997)\Season 10
-F:\TV\King of the Hill (1997)\Season 11
-F:\TV\King of the Hill (1997)\Season 12
-F:\TV\King of the Hill (1997)\Season 13
-F:\TV\Looney Tunes\1948
-F:\TV\Looney Tunes\1949
-F:\TV\Looney Tunes\1950
-F:\TV\Looney Tunes\1951
-F:\TV\Looney Tunes\1954
-F:\TV\Looney Tunes\1955
-F:\TV\Looney Tunes\1959
-F:\TV\Married with Children\Season 01
-F:\TV\Married with Children\Season 02
-F:\TV\My Haunted House\Season 01
-F:\TV\My Haunted House\Season 02
-F:\TV\My Haunted House\Season 03
-F:\TV\My Haunted House\Season 04
-F:\TV\My Haunted House\Season 05
-F:\TV\Roseanne\Season 02
-F:\TV\Roseanne\Season 03
-F:\TV\Roseanne\Season 04
-F:\TV\Roseanne\Season 05
-F:\TV\Roseanne\Season 06
-F:\TV\Roseanne\Season 07
-F:\TV\Roseanne\Season 08
-F:\TV\Roseanne\Season 09
-F:\TV\Rugrats\Season 01
-F:\TV\Rugrats\Season 02
-F:\TV\Rugrats\Season 03
-F:\TV\Rugrats\Season 04
-F:\TV\Sex and the City\Season 01
-F:\TV\Sex and the City\Season 02
-F:\TV\Sex and the City\Season 03
-F:\TV\Sex and the City\Season 04
-F:\TV\Sex and the City\Season 05
-F:\TV\Spongebob\Season 01
-F:\TV\Spongebob\Season 02
-F:\TV\Spongebob\Season 03
-F:\TV\Stephen King's It (1990)\Season 01
-F:\TV\The Big Bang Theory\Season 01
-F:\TV\The Big Bang Theory\Season 02
-F:\TV\The Big Bang Theory\Season 03
-F:\TV\The Big Bang Theory\Season 04
-F:\TV\The Big Bang Theory\Season 05
-F:\TV\The Big Bang Theory\Season 06
-F:\TV\The Big Bang Theory\Season 07
-F:\TV\The Nanny\Season 01
-F:\TV\The Nanny\Season 02
-F:\TV\The Nanny\Season 03
-F:\TV\The Nanny\Season 04
-F:\TV\The Nanny\Season 05
-F:\TV\The Nanny\Season 06
-F:\TV\The Walking Dead\Season 01
-F:\TV\The Walking Dead\Season 02
+7th Heaven,Season 01
+7th Heaven,Season 06
+7th Heaven,Season 08
+7th Heaven,Season 09
+7th Heaven,Season 10
+7th Heaven,Season 11
+A Haunting,Season 01
+A Haunting,Season 02
+A Haunting,Season 03
+A Haunting,Season 04
+Doug,Season 01
+Full House,Season 00
+Full House,Season 01
+Full House,Season 02
+Full House,Season 03
+Game of Thrones,Season 02
+Game of Thrones,Season 03
+Game of Thrones,Season 04
+Goof Troop,Season 01
+King of the Hill (1997),Season 01
+King of the Hill (1997),Season 02
+King of the Hill (1997),Season 03
+King of the Hill (1997),Season 04
+King of the Hill (1997),Season 05
+King of the Hill (1997),Season 06
+King of the Hill (1997),Season 07
+King of the Hill (1997),Season 08
+King of the Hill (1997),Season 09
+King of the Hill (1997),Season 10
+King of the Hill (1997),Season 11
+King of the Hill (1997),Season 12
+King of the Hill (1997),Season 13
+Looney Tunes,1948
+Looney Tunes,1949
+Looney Tunes,1950
+Looney Tunes,1951
+Looney Tunes,1954
+Looney Tunes,1955
+Looney Tunes,1959
+Married with Children,Season 01
+Married with Children,Season 02
+My Haunted House,Season 01
+My Haunted House,Season 02
+My Haunted House,Season 03
+My Haunted House,Season 04
+My Haunted House,Season 05
+Roseanne,Season 02
+Roseanne,Season 03
+Roseanne,Season 04
+Roseanne,Season 05
+Roseanne,Season 06
+Roseanne,Season 07
+Roseanne,Season 08
+Roseanne,Season 09
+Rugrats,Season 01
+Rugrats,Season 02
+Rugrats,Season 03
+Rugrats,Season 04
+Sex and the City,Season 01
+Sex and the City,Season 02
+Sex and the City,Season 03
+Sex and the City,Season 04
+Sex and the City,Season 05
+Spongebob,Season 01
+Spongebob,Season 02
+Spongebob,Season 03
+Stephen King's It (1990),Season 01
+The Big Bang Theory,Season 01
+The Big Bang Theory,Season 02
+The Big Bang Theory,Season 03
+The Big Bang Theory,Season 04
+The Big Bang Theory,Season 05
+The Big Bang Theory,Season 06
+The Big Bang Theory,Season 07
+The Nanny,Season 01
+The Nanny,Season 02
+The Nanny,Season 03
+The Nanny,Season 04
+The Nanny,Season 05
+The Nanny,Season 06
+The Walking Dead,Season 01
+The Walking Dead,Season 02
