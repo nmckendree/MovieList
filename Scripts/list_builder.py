@@ -22,7 +22,7 @@ def write_movie_list(base_path: Path):
     print(f"Wrote movie_list.txt ({out_file.resolve()})")
 
 def write_tv_list(base_path: Path):
-    tv_root = base_path / "TV Shows"
+    tv_root = base_path / "TV"
     if not tv_root.is_dir():
         print(f"TV Shows folder not found at {tv_root}")
         return
